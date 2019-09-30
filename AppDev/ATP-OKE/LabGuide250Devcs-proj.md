@@ -3,7 +3,7 @@
 ![](../../common/images/customer.logo2.png)
 # Microservices on ATP #
 
-## Part 1 - Setting up your Developer Cloud Project ##
+## Setting up your Developer Cloud Project ##
 
 ## Introduction ##
 
