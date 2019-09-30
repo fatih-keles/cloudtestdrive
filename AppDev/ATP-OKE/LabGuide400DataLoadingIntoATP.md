@@ -5,7 +5,7 @@
 # Microservices on ATP
 
 
-## Part 2: Data Loading into ATP
+## Data Loading into ATP
 #### **Introduction**
 
 In this lab, you will be creating a few tables and inserting data into the ATP database using the CI/CD features of Developer Cloud.  We'll use the Build engine of DevCS to set up a flow that will create the necessary objects in the database, and insert data into the tables.  In case these elements are changed in the repository, the script will trigger again and re-create the database elements.
